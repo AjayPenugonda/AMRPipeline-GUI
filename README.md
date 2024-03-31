@@ -19,3 +19,7 @@ In order to enter any fasta file into the pipeline, the tools above must be down
 Assuming you have python on your system, use the following command to use the pipeline.
 
 `python <path>/pipeline_ver2.py -i <path_to_directory_with_fasta_files>`
+
+Alternatively, `--input_dir` can be used as opposed to `-i`
+
+Also note that the path **must** be specified for both the downloaded pipeline and the path to the directory containing the input fasta files
