@@ -9,6 +9,7 @@ Each of these tools have documentation, which can be found in the below links:
 
 Python will also be required on the device that you are using and download instructions can be found at the following link:
 https://www.python.org
+
 Simply go to the above link and click on the **downloads** section, and download for your system (MacOS/Windows/etc.)
 
 ---
