@@ -23,3 +23,10 @@ Assuming you have python on your system, use the following command to use the pi
 Alternatively, `--input_dir` can be used as opposed to `-i`
 
 Also note that the path **must** be specified for both the downloaded pipeline and the path to the directory containing the input fasta files
+
+---
+
+# How to Use the GUI
+In order to utilize the GUI (app.R), simply alter the file names that are currently there to your filenames. Additionally, you may need to edit some of the column titles to match what is in the code. Once you have made the necessary edits, you can run the app to view and manipulate the graphs that you have produced as per your needs.
+
+Note that the path for your files **must** be within the same directory as the app.R file. 
